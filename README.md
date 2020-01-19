@@ -136,7 +136,7 @@ rebuild and install the sketch. A run looks like this (select open bench logic s
   many many others), [leaflabs](https://www.leaflabs.com/maple) which started the initial 
   libmaple core.  
   
-  Note that there are other pretty good implementations of logic analyzer using the sump protocol.
+  Note that there are other pretty good implementations of logic analyzer, some using the sump protocol.
   found during a google search:
   
   - [https://github.com/gillham/logic_analyzer](https://github.com/gillham/logic_analyzer)
