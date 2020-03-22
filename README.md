@@ -1,7 +1,7 @@
-# SUMP compatible logic analyzer for STM32duino (steve's libmaple core) - stm32f401cc pill board
+# SUMP compatible logic analyzer for STM32duino (libmaple core) - stm32f401cc pill board
 
 This is an implementation of (yet another) logic analyzer based on the sump protocol on STM32duino
- ([steves libmaple core](https://github.com/stevstrong/Arduino_STM32)) for STM32F401CC pill board.
+ ([libmaple core](https://github.com/rogerclarkmelbourne/Arduino_STM32)) for STM32F401CC pill board.
 
 ## No warranty
 
