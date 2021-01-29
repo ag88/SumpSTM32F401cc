@@ -145,6 +145,6 @@ rebuild and install the sketch. A run looks like this (select open bench logic s
   - [https://github.com/aster94/logic-analyzer](https://github.com/aster94/logic-analyzer)
   - [https://github.com/pliable3/STM32-Logic-Analyzer](https://github.com/pliable3/STM32-Logic-Analyzer)
   
-  so this is just yet another one ;)
-
+  so this is just yet another one ;)  
+  developing this has taken me quite some effort. If you use this codes and found it useful, you may like to buy me a coffee [![Donate](resource/donorbox.svg)](https://donorbox.org/sumpstm32f401cc) ;)
 
