@@ -75,7 +75,7 @@ Using DFU would require this finger dance:
   - [OLS client](https://lxtreme.nl/projects/ols/)
   - [Sigrok's PulseView](https://sigrok.org/wiki/PulseView) - 
   select open bench logic sniffer as the board
-  - [Original SUMP client](https://www.sump.org/projects/analyzer/client/)
+  - [Original SUMP client](https://web.archive.org/web/20240213145023/https://www.sump.org/projects/analyzer/)
   
   There may be more one'd need to web search for them. Note that while testing out, 
 it works with Sigrok's Pulseview and original SUMP client. However, one of the very good clients OLS client,
